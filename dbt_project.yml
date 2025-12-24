@@ -14,6 +14,3 @@ macro-paths:
   - macros
 snapshot-paths:
   - snapshots
-models:
-  USER_24_PUBLIC__22dbt_practice1_22:
-    +materialized: view
