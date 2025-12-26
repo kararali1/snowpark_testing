@@ -1,5 +1,5 @@
 
-{{ config(materialize='table') }}
+{{ config(materialized='table') }}
 
 WITH visits as (
 select * 
